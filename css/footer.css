@@ -1,0 +1,23 @@
+footer{
+    float: left;
+    width: 100%;
+    background-color: var(--gray-color-dark);
+    padding: 10px;
+    box-sizing: border-box;
+    text-align: center;
+    color: white;
+    font-size: 14px;
+    margin-top: 40px;
+}
+
+footer a{
+    color: white;
+}
+
+footer a:hover{
+    color: var(--gray-color);
+}
+
+footer div{
+    margin-bottom: 10px;
+}

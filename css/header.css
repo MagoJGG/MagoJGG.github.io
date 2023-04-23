@@ -1,0 +1,18 @@
+header {
+    float: left;
+    width: 100%;
+    font-family: "NunitoSans-Bold", Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin: 20px 0;
+}
+
+header img {
+    width: 120px;
+}
+
+header h1 {
+    color: var(--primary-color);
+    font-size: 30px;
+    margin: 0;
+    text-shadow: 2px 5px #ccc;
+}

@@ -1,0 +1,32 @@
+html, body {
+    margin: 0px;
+    padding: 0px;
+    font-family: "NunitoSans-Regular",Arial, Helvetica, sans-serif;
+    background-image: url(../img/bg-pattern.png);
+}
+#container {
+    max-width: 1200px;
+    margin: 0 auto;
+    border: 2px solid;
+}
+
+.text-secondary {
+    color: var(--secondary-color);
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    color: var(--primary-color);
+    text-decoration: none;
+    transition: all 0.3s;
+}
+
+a:hover {
+    color: var(--primary-color-dark);
+}
+

@@ -1,0 +1,68 @@
+aside{
+    float:left;
+    width: 300px;
+    background-color: white;
+    margin-top: 40px;
+    padding: 30px;
+    box-sizing: border-box;
+    border: solid 1px var(--gray-color);
+    box-shadow: 2px 2px 5px var(--gray-color);
+}
+
+aside h3{
+    font-size: 18px;
+    text-transform: uppercase;
+    color: white;
+    background-color: var(--secondary-color);
+    text-align: center;
+    padding: 5px;
+    font-family: "NunitoSans-Bold",Arial, Helvetica, sans-serif;
+    border-top: solid 1px var(--secondary-color-dark);
+    border-bottom: solid 1px var(--secondary-color-dark);
+}
+
+.widget{
+    margin-bottom: 60px;
+}
+
+.widget form input[type="email"], .widget form input[type="password"]{
+    width: 100%;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+    padding: 10px;
+}
+.widget form input[type="submit"]{
+    width: 100%;
+    text-transform: uppercase;
+    color: white;
+    background-color: var(--primary-color);
+    padding: 10px;
+    border: none;
+    transition: all 0.3s;
+}
+.widget form input[type="submit"]:hover{
+    cursor: pointer;
+    background-color: var(--primary-color-dark);
+}
+
+.widget ul{
+    list-style: circle;
+    padding-left: 20px;
+}
+
+.widget ul li{
+    margin: 15px 0;
+}
+
+.widget blockquote{
+    margin: 0;
+    color: var(--gray-color-dark);
+    font-style: italic;
+    text-align: justify;
+}
+
+@media (max-width: 700px){
+    aside{
+        width: 100%;
+    }
+}

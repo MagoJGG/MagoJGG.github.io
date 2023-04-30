@@ -34,7 +34,7 @@
     float:right;
 }
 
-.pagination{
+/*.pagination{
     float: right;
 }
 
@@ -53,7 +53,7 @@
     color: white;
     background-color: var(--primary-color);
     border: solid 1px var(--primary-color-dark);
-}
+}*/
 
 @media (max-width: 700px){
     #content{

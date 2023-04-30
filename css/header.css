@@ -14,5 +14,5 @@ header h1 {
     color: var(--primary-color);
     font-size: 30px;
     margin: 0;
-    text-shadow: 2px 5px #ccc;
+    text-shadow: 2px 2px #ccc;
 }

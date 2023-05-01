@@ -19,10 +19,6 @@
     border-right: 1px solid var(--gray-color);
 }
 
-#main-menu > ul > li a:first-child {
-    border-left: 10px solid blue;/*var(--gray-color)*/
-}
-
 #main-menu > ul > li a:hover{
     background-color: var(--primary-color-dark);
 }

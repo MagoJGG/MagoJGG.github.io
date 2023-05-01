@@ -1,9 +1,9 @@
 #main-menu{
-    float: left;
+    float: center;
     width: 100%;
     background-color: var(--primary-color);
     box-shadow: 2px 2px 5px var(--gray-color);
-/*    text-transform: uppercase;*/    
+    text-transform: uppercase;
 }
 
 #main-menu > ul > li{

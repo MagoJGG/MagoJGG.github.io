@@ -3,7 +3,6 @@
     width: 100%;
     background-color: var(--primary-color);
     box-shadow: 2px 2px 5px var(--gray-color);
-    text-transform: uppercase;
 }
 
 #main-menu > ul > li{
@@ -20,6 +19,7 @@
 
 #main-menu > ul > li a:hover{
     background-color: var(--primary-color-dark);
+    text-transform: uppercase;
 }
 
 #main-menu > ul > li > ul{
@@ -39,6 +39,7 @@
 
 #main-menu > ul > li > ul > li > a:hover{
     background-color: var(--secondary-color-dark);
+    text-transform: uppercase;
 }
 
 #main-menu > ul > li:hover > ul{

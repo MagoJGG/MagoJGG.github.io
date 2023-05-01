@@ -19,6 +19,9 @@
     border-right: 1px solid var(--gray-color);
 }
 
+.primero{
+        border-left: 1px solid var(--gray-color);
+}
 #main-menu > ul > li a:hover{
     background-color: var(--primary-color-dark);
 }

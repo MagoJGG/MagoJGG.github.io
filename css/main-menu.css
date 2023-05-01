@@ -3,7 +3,7 @@
     width: 100%;
     background-color: var(--primary-color);
     box-shadow: 2px 2px 5px var(--gray-color);
-    text-transform: uppercase;
+    text-transform: uppercase;    
 }
 
 #main-menu > ul > li{
@@ -14,7 +14,7 @@
 #main-menu > ul > li a{
     color: white;
     padding: 10px 20px;
-    font-size: 15px;
+    font-size: 13px;
     border-right: 1px solid var(--gray-color);
 }
 
@@ -33,7 +33,7 @@
     color: white;
     background-color: var(--secondary-color);
     padding: 15px;
-    font-size: 12px;
+    font-size: 11px;
     border-top: 1px solid var(--gray-color);
 }
 

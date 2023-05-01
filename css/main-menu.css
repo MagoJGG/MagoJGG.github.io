@@ -21,6 +21,7 @@
 
 #main-menu > ul > li a:first-child {
     border-left: 1px solid var(--gray-color);
+    background-color: red;
 }
 
 #main-menu > ul > li a:hover{

@@ -16,7 +16,11 @@
     color: white;
     padding: 10px 20px;
     font-size: 13px;
-    border-right: 1px solid var(--gray-color);}
+    border-right: 1px solid var(--gray-color);
+}
+
+nav ul li:first-child {
+  border-left: 1px solid var(--gray-color)
 }
 
 #main-menu > ul > li a:hover{

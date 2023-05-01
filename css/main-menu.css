@@ -1,8 +1,9 @@
 #main-menu{
-    float: left;
+/*    float: left;*/
     display: flex;
     justify-content: center; /* centra horizontalmente */
     width: 100%;
+    text-transform: uppercase;
     background-color: var(--primary-color);
     box-shadow: 2px 2px 5px var(--gray-color);
 }
@@ -23,7 +24,6 @@
 
 #main-menu > ul > li a:hover{
     background-color: var(--primary-color-dark);
-    text-transform: uppercase;
 }
 
 #main-menu > ul > li > ul{
@@ -43,7 +43,6 @@
 
 #main-menu > ul > li > ul > li > a:hover{
     background-color: var(--secondary-color-dark);
-    text-transform: uppercase;
 }
 
 #main-menu > ul > li:hover > ul{

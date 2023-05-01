@@ -20,7 +20,7 @@
 }
 
 #primero{
-        border-left: 1px solid var(--gray-color);
+        border-left: 10px solid var(--gray-color);
         background-color:red;
 }
 #main-menu > ul > li a:hover{

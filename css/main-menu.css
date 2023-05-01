@@ -1,5 +1,5 @@
 #main-menu{
-    float: center;
+    float: left;
     width: 100%;
     background-color: var(--primary-color);
     box-shadow: 2px 2px 5px var(--gray-color);

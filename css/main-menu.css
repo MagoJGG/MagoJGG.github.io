@@ -8,7 +8,7 @@
 }
 
 #main-menu > ul > li > a:first-child {
-  border-left: 10px solid red;/*var(--gray-color)*/
+  border-left: 10px solid blue;/*var(--gray-color)*/
 }
 
 #main-menu > ul > li{

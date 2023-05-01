@@ -29,9 +29,8 @@
     color: var(--secondary-color);
 }
 
-#content article a{
+#content article p{
     font-size: 15px;
-/*    float:right;*/
 }
 
 @media (max-width: 700px){

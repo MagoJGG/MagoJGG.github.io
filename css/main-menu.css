@@ -4,7 +4,9 @@
     background-color: var(--primary-color);
     box-shadow: 2px 2px 5px var(--gray-color);
 }
-
+#main-menu > ul{
+    float: center;
+}
 #main-menu > ul > li{
     float: left;
     margin: 10px 0;

@@ -19,7 +19,7 @@
     border-right: 1px solid var(--gray-color);}
 }
 
-#main-menu > ul > li:first-child {
+ul > li:first-child {
     border-left: 1px solid var(--gray-color);
     background-color: red;
 }

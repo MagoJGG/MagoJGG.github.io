@@ -21,6 +21,7 @@
 
 .primero{
         border-left: 1px solid var(--gray-color);
+        background-color:red;
 }
 #main-menu > ul > li a:hover{
     background-color: var(--primary-color-dark);

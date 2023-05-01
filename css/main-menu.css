@@ -1,5 +1,7 @@
 #main-menu{
     float: left;
+    display: flex;
+    justify-content: center; /* centra horizontalmente */
     width: 100%;
     background-color: var(--primary-color);
     box-shadow: 2px 2px 5px var(--gray-color);

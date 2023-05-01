@@ -19,7 +19,7 @@
     border-right: 1px solid var(--gray-color);
 }
 
-.primero{
+#primero{
         border-left: 1px solid var(--gray-color);
         background-color:red;
 }
